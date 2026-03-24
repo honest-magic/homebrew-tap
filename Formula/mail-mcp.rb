@@ -1,8 +1,8 @@
 class MailMcp < Formula
   desc "MCP server for AI-powered email access via IMAP and SMTP"
   homepage "https://github.com/honest-magic/mail-mcp"
-  url "https://registry.npmjs.org/@honest-magic/mail-mcp/-/mail-mcp-1.2.0.tgz"
-  sha256 "59eedbdc5d5c1a90e87aa44d9b487e33972247d27f27b7a275f6962b780d7d2f"
+  url "https://registry.npmjs.org/@honest-magic/mail-mcp/-/mail-mcp-1.3.0.tgz"
+  sha256 "eeca1cf6f663297ffc7ac03d6c91845a5241dc7d8f628c009d9f8764e22754b6"
   license "MIT"
 
   depends_on "node"
