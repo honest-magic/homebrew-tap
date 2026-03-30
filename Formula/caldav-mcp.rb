@@ -1,8 +1,8 @@
 class CaldavMcp < Formula
   desc "MCP server for AI-powered calendar access via CalDAV"
   homepage "https://github.com/honest-magic/caldav-mcp"
-  url "https://registry.npmjs.org/@honest-magic/caldav-mcp/-/caldav-mcp-0.2.1.tgz"
-  sha256 "6dfca56bfa2a423678e4643b9cbebbb4ac260e11fea618cbe431b78a6ece2ad9"
+  url "https://registry.npmjs.org/@honest-magic/caldav-mcp/-/caldav-mcp-0.3.0.tgz"
+  sha256 "be2823344c4e747c3476eca66635a9f28430692bb5612fb4baa234dbf6a358db"
   license "MIT"
 
   depends_on "node"
